@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/duplex-tech/image/upload/v1720443041/newDuplex/hire-developer/20240708182037-Layer_2.webp)](https://drive.google.com/file/d/1UDji0iz2T6yA2YEg-o7Q32aVDVaG_-Ez/view?usp=sharing)
+![MasterHead](https://res.cloudinary.com/duplex-tech/image/upload/v1720443041/newDuplex/hire-developer/20240708182037-Layer_2.webp)
 <h1 align="center">Hi 👋, I'm Harsh Vasoya</h1>
 <h3 align="center">I'm a Flutter Application Developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
