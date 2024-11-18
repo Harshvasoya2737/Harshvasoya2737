@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Figma**
 
+- 🌐 My Portfolio [https://harshvasoya2737.github.io/](https://harshvasoya2737.github.io/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Harshvasoya2737](https://github.com/Harshvasoya2737)
 
 - 📫 How to reach me **hd.vasoya7@gmail.com**
-
-- 🌐 My Portfolio [https://harshvasoya2737.github.io/](https://harshvasoya2737.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UDji0iz2T6yA2YEg-o7Q32aVDVaG_-Ez/view?usp=sharing](https://drive.google.com/file/d/1UDji0iz2T6yA2YEg-o7Q32aVDVaG_-Ez/view?usp=sharing)
 
