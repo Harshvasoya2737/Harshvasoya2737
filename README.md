@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/duplex-tech/image/upload/v1720443041/newDuplex/hire-developer/20240708182037-Layer_2.webp)
 <h1 align="center">Hi 👋, I'm Harsh Vasoya</h1>
 <h3 align="center">I'm a Flutter Application Developer</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1732368/screenshots/13842635/media/06fdccbc7f0e1d47237b588dc0dbdb42.gif">
 
 - 🔭 I’m currently working on **Food Delivery App**
 
